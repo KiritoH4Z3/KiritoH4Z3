@@ -5,20 +5,16 @@
 <br/>
 
 <a href="https://github.com/abdullahmhazeq">
-  <img src="https://komarev.com/ghpvc/?username=abdullahmhazeq&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=abdullahmhazeq&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/abdullahmhazeq">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://linkedin.com/in/abdullahmhazeq"> 
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:ahazeq.mena@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+  <img src="https://img.shields.io/badge/GMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;
-<a href="https://doi.org/10.26858/jati.v8i2">
-  <img src="https://img.shields.io/badge/PUBLISHED-JATI%20Journal%202024-1D9E75?style=for-the-badge&logo=academia&logoColor=white" alt="Published" />
-</a>
+<a href="https://jati.apu.edu.my/index.php/JATI/article/view/77">
+  <img src="https://img.shields.io/badge/PUBLISHED-JATI%20Journal%202024-1D9E75?style=for-the-badge&logo=academia&logoColor=white" alt="Published" /></a>
 
 </div>
 
@@ -40,7 +36,7 @@ class Abdullah:
     published    = "JATI Journal, Vol. 8 No. 2, 2024 📄"
     distinction  = "Deepfake Detection Framework — Distinction Grade 🏆"
     goal         = "Land a meaningful AI role and build things that matter"
-    fun_fact     = "I got published before I graduated 😅"
+    fun_fact     = "I really like Nature..."
 ```
 
 <br clear="right"/>
@@ -148,20 +144,17 @@ If you are hiring, collaborating or just want to talk AI — reach out.
 <br/>
 
 <a href="https://linkedin.com/in/abdullahmhazeq">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Hazeq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Mohammed%20Hazeq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:ahazeq.mena@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ahazeq.mena-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Gmail-ahazeq.mena-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/KiritoH4Z3">
-  <img src="https://img.shields.io/badge/GitHub-KiritoH4Z3-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/GitHub-KiritoH4Z3-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,50:1D9E75,100:2E86AB&height=120&section=footer&animation=twinkling" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20Touch%20Grass...&textBg=false&fontColor=00000&animation=scaleIn" alt="Footer" />
 
 <sub>⭐ If something here was useful, a star goes a long way. Always building, always shipping.</sub>
 
