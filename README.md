@@ -25,7 +25,7 @@
 
 <h3>🧠 Who Am I?</h3>
 
-<img align="right" alt="Coding" height = "265" width="290" src="https://raw.githubusercontent.com/KiritoH4Z3/KiritoH4Z3/refs/heads/main/typing.gif"/>
+<img align="right" alt="Coding"  width="375" src="https://raw.githubusercontent.com/KiritoH4Z3/KiritoH4Z3/refs/heads/main/typing.gif"/>
 
 ```python
 class Abdullah:
