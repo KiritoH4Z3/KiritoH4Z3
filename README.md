@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # Hey, I'm Abdullah Mohammed Hazeq 👋
 
 <p align="center">
@@ -12,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://doi.org/10.26858/jati.v8i2">
-    <img src="https://img.shields.io/badge/Published-JATI%20Journal%202024-green?style=for-the-badge&logo=academia" />
+    <img src="https://img.shields.io/badge/Published-JATI%20Journal%202024-green?style=for-the-badge&logo=google-scholar" />
   </a>
 </p>
 
@@ -65,7 +67,7 @@ engineer = {
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -74,7 +76,7 @@ engineer = {
 ## 📂 Featured Projects
 
 | Project | Description | Tech | Status |
-|---|---|---|---|
+|---------|-------------|------|--------|
 | **Deepfake Detection Framework** | Spatial-temporal hybrid model (EfficientNet + LSTM) achieving 80% accuracy with Grad-CAM explainability. Distinction grade. | TensorFlow, CUDA, Python | 🔵 Completed |
 | **APU Campus Navigation System** | Real-time congestion prediction across campus floors. Presented to University COO. | Python, scikit-learn, SQL | 🔵 Completed |
 | **Food Recommendation System** | Hybrid TF-IDF + Collaborative Filtering model. Published in JATI Journal (2024). | Python, NLP, Pandas | 📄 Published |
@@ -83,8 +85,8 @@ engineer = {
 
 ## 📄 Publications
 
-**"Food Recommendation System Using Hybrid Filtering"**
-JATI Journal, Vol. 8, No. 2, 2024 (e-ISSN: 2600-7304)
+**"Food Recommendation System Using Hybrid Filtering"**  
+JATI Journal, Vol. 8, No. 2, 2024 (e-ISSN: 2600-7304)  
 Lead Researcher — Hybrid TF-IDF and Collaborative Filtering model solving the Cold Start problem in AI recommendation systems.
 
 ---
