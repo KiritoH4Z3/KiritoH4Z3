@@ -25,7 +25,7 @@
 
 <h3>🧠 Who Am I?</h3>
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/KiritoH4Z3/KiritoH4Z3/refs/heads/main/typing.gif"/>
+<img align="right" alt="Coding" height = "265" width="290" src="https://raw.githubusercontent.com/KiritoH4Z3/KiritoH4Z3/refs/heads/main/typing.gif"/>
 
 ```python
 class Abdullah:
@@ -37,7 +37,7 @@ class Abdullah:
     Currently    = "Building RAG pipelines & LangChain agent workflows"
     Published    = "JATI Journal, Vol. 8 No. 2, 2024 📄"
     Distinction  = "Deepfake Detection Framework — Distinction Grade 🏆"
-    goal         = "Land a meaningful AI role and build things that matter"
+    Goal         = "Land a meaningful AI role and build things that matter"
     Hobbies      = "Racing, Gaming, Traveling, Photography"
     Fun_fact     = "I am very competitive"
 ```
