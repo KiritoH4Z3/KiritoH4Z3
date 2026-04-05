@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/abdullahmhazeq">
+<a href="https://github.com/KiritoH4Z3">
   <img src="https://komarev.com/ghpvc/?username=abdullahmhazeq&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/abdullahmhazeq"> 
