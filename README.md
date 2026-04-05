@@ -1,11 +1,13 @@
+<a name="top"></a>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abdullah+Mohammed+Hazeq+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder+%7C+Published+Researcher;Fine-tuned+20%2B+AI+Agents+in+Production;Distinction-Grade+Deep+Learning+Framework;Open+to+Roles+across+Malaysia+%26+SEA+%F0%9F%8C%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abdullah+Mohammed+Hazeq+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder+%7C+Published+Researcher;Fine-tuned+20%2B+AI+Agents+in+Production;Distinction-Grade+Deep+Learning+Framework;Open+to+Roles+across+Malaysia+%26+SEA+%F0%9F%8C%8F" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/KiritoH4Z3">
-  <img src="https://komarev.com/ghpvc/?username=abdullahmhazeq&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KiritoH4Z3&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/abdullahmhazeq"> 
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,29 +16,30 @@
   <img src="https://img.shields.io/badge/GMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;
 <a href="https://jati.apu.edu.my/index.php/JATI/article/view/77">
-  <img src="https://img.shields.io/badge/PUBLISHED-JATI%20Journal%202024-1D9E75?style=for-the-badge&logo=academia&logoColor=white" alt="Published" /></a>
+  <img src="https://img.shields.io/badge/PUBLISHED-JATI%20Journal%202024-1D9E75?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Published" /></a>
 
 </div>
 
 ---
 
-<img align="right" alt="AI Engineer" width="320" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"/>
 
-### 🧠 Who Am I?
+<h3>🧠 Who Am I?</h3>
+
+<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/KiritoH4Z3/KiritoH4Z3/refs/heads/main/typing.gif"/>
 
 ```python
 class Abdullah:
-    name         = "Abdullah Mohammed Hazeq"
-    location     = "Riyadh, Saudi Arabia 🇸🇦 → KL/SEA 🌏"
-    degree       = "B.S. Computer Science — Artificial Intelligence"
-    university   = "Asia Pacific University (APU), Malaysia"
-    experience   = ["LLM Fine-tuning", "Agentic AI", "ML Pipelines"]
-    frameworks   = ["TensorFlow", "PyTorch", "LangChain", "HuggingFace"]
-    currently    = "Building RAG pipelines & LangChain agent workflows"
-    published    = "JATI Journal, Vol. 8 No. 2, 2024 📄"
-    distinction  = "Deepfake Detection Framework — Distinction Grade 🏆"
+    Location     = "Saudi Arabia | Relocation -> SEA 🌏"
+    Degree       = "B.S. Computer Science — Artificial Intelligence"
+    University   = "Asia Pacific University (APU), Malaysia"
+    Experience   = ["LLM Fine-tuning", "Agentic AI", "ML Pipelines"]
+    Frameworks   = ["TensorFlow", "PyTorch", "LangChain", "HuggingFace"]
+    Currently    = "Building RAG pipelines & LangChain agent workflows"
+    Published    = "JATI Journal, Vol. 8 No. 2, 2024 📄"
+    Distinction  = "Deepfake Detection Framework — Distinction Grade 🏆"
     goal         = "Land a meaningful AI role and build things that matter"
-    fun_fact     = "I really like Nature..."
+    Hobbies      = "Racing, Gaming, Traveling, Photography"
+    Fun_fact     = "I am very competitive"
 ```
 
 <br clear="right"/>
@@ -46,10 +49,10 @@ class Abdullah:
 ### ⚡ What I'm Currently Doing
 
 ```
-🤖  Building   →  RAG pipelines and LangChain agent workflows
+🤖  Building   →  RAG pipelines, AI Systems and LangChain agent workflows
 📄  Published  →  Peer-reviewed AI research in JATI Journal (2024)
 🌱  Learning   →  MLOps fundamentals, advanced prompt engineering, OpenAI tooling
-🌏  Seeking    →  Full-time AI/ML engineering roles across Malaysia & SEA
+🌏  Seeking    →  Full-time AI/ML engineering roles across EMEA, Malaysia & SEA
 ```
 
 ---
@@ -84,11 +87,11 @@ class Abdullah:
 **Tools & Infrastructure**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark&perline=3" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode&theme=dark&perline=4" alt="Tools" />
 </a>
 
 &nbsp;
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
@@ -101,7 +104,7 @@ class Abdullah:
 | Project | Description | Stack | Status |
 |---|---|---|:---:|
 | 🎭 **Deepfake Detection Framework** | Spatial-temporal hybrid model (EfficientNet + LSTM) achieving 80% accuracy with Grad-CAM explainability. Presented to university faculty. Earned a **Distinction grade**. | TensorFlow · CUDA · Python | ✅ Distinction |
-| 🗺️ **APU Campus Navigation System** | Real-time congestion prediction across campus floors with 70% accuracy. **Presented directly to the University COO** and Head of School. | Python · scikit-learn · SQL | ✅ Deployed |
+| 🗺️ **APU Campus Navigation System** | Real-time congestion prediction across campus floors with 70% accuracy. **Presented directly to the University COO** and Head of School. | Python · scikit-learn · SQL | ✅ Transferred |
 | 🍽️ **Food Recommendation System** | Hybrid TF-IDF + Collaborative Filtering model solving the Cold Start problem. **Peer-reviewed and published** in JATI Journal 2024. | Python · NLP · Pandas | 📄 Published |
 | 🤖 **LLM Agent Evaluation (Virtuals Protocol)** | Evaluated and fine-tuned 20+ production AI agents, designed prompt chains and behavioral grounding frameworks for a live agentic platform. | Python · HuggingFace · Prompt Eng | 🏢 Production |
 
@@ -109,8 +112,8 @@ class Abdullah:
 
 ### 📄 Publication
 
-> **"Food Recommendation System Using Hybrid Filtering"**
-> JATI Journal — Vol. 8, No. 2, 2024 (e-ISSN: 2600-7304)
+> **"Food Recommendation System Using Hybrid Filtering"**  
+> JATI Journal — Vol. 8, No. 2, 2024 (e-ISSN: 2600-7304)  
 > *Lead Researcher* — Hybrid TF-IDF and Collaborative Filtering model solving the Cold Start problem in dietary AI recommendation systems.
 
 ---
@@ -120,7 +123,7 @@ class Abdullah:
 | Certification | Issuer |
 |---|---|
 | 🌐 Cisco Certified Network Associate (CCNA) — Routing & Switching | Cisco Systems |
-| 💻 Software Engineering Certificate | IBM / Coursera |
+| 💻 Introduction to Software Engineering Certificate | IBM / Coursera |
 
 ---
 
@@ -138,8 +141,8 @@ class Abdullah:
 
 <div align="center">
 
-I am actively seeking AI and ML engineering roles across Malaysia and SEA.
-If you are hiring, collaborating or just want to talk AI — reach out.
+I am actively seeking AI and ML engineering roles across Malaysia and SEA.  
+If you are hiring, collaborating or just want to talk AI... reach out!.
 
 <br/>
 
