@@ -1,110 +1,273 @@
 <a name="top"></a>
 
-# Hey, I'm Abdullah Mohammed Hazeq 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=AI+Engineer;LLM+%26+Agentic+AI+Builder;Published+Researcher;Distinction-Grade+ML+Researcher" alt="Typing SVG" />
-</p>
+  <!-- Typewriter Name -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abdullah+Hazeq+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;LLM+%26+Agentic+AI+Builder+%F0%9F%94%AE;Published+Researcher+%F0%9F%93%84;Distinction-Grade+ML+Researcher+%F0%9F%8E%93" alt="Typing Animation" />
 
-<p align="center">
+  <br/><br/>
+
+  <!-- Custom Styled Stats Row -->
+  <img src="https://komarev.com/ghpvc/?username=abdullahmhazeq&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/abdullahmhazeq?label=FOLLOWERS&style=flat-square&color=0e4429&logo=github" alt="Followers" />
+  &nbsp;
   <a href="https://linkedin.com/in/abdullahmhazeq">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/abdullahmhazeq">
+    <img src="https://img.shields.io/badge/LEETCODE-ABDULLAHMHAZEQ-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Contact Buttons Row -->
   <a href="mailto:ahazeq.mena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-SAY_HELLO-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
+  &nbsp;
   <a href="https://doi.org/10.26858/jati.v8i2">
-    <img src="https://img.shields.io/badge/Published-JATI%20Journal%202024-green?style=for-the-badge&logo=google-scholar" />
+    <img src="https://img.shields.io/badge/PUBLISHED-JATI_JOURNAL_2024-2E7D32?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-</p>
+
+</div>
+
+<br/>
 
 ---
 
-## 🚀 Who Am I?
+<br/>
+
+<!-- Who Am I Section with Side Image -->
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+
+### 🚀 Who Am I?
 
 ```python
-engineer = {
-    "name": "Abdullah Mohammed Hazeq",
-    "degree": "B.S. Computer Science — Artificial Intelligence",
-    "university": "Asia Pacific University (APU), Malaysia",
-    "based_in": "Riyadh, Saudi Arabia | Relocating to KL/SEA",
-    "focus": ["LLM Engineering", "Agentic AI", "ML Systems", "Applied Research"],
-    "currently": "Building RAG pipelines and deepening LangChain expertise",
-    "fun_fact": "I got my research published before finishing my degree 📄"
-}
+class AbdullahHazeq:
+    def __init__(self):
+        self.name = "Abdullah Mohammed Hazeq"
+        self.degree = "B.S. Computer Science — AI"
+        self.university = "Asia Pacific University (APU)"
+        self.location = "Riyadh, Saudi Arabia 🇸🇦"
+        self.target = "Relocating to KL/SEA 🌏"
+
+    def current_focus(self):
+        return [
+            "LLM Engineering 🦜🔗",
+            "Agentic AI 🤖", 
+            "RAG Pipelines 📚",
+            "Applied ML Research 🔬"
+        ]
+
+    def fun_fact(self):
+        return "Got research published before graduation 📄"
 ```
 
----
+    </td>
+    <td valign="middle" width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
-## 🔥 What I'm Currently Doing
-
-- 🤖 **Building:** LangChain and RAG pipelines for applied GenAI workflows
-- 📚 **Learning:** Advanced LLM orchestration, MLOps fundamentals and OpenAI API tooling
-- 🔬 **Researching:** Agentic AI evaluation frameworks and behavioral grounding techniques
-- 🌏 **Seeking:** Full-time AI/ML engineering roles across Malaysia and SEA
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <br />
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <br />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<br/>
 
 ---
 
-## 📂 Featured Projects
+<br/>
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| **Deepfake Detection Framework** | Spatial-temporal hybrid model (EfficientNet + LSTM) achieving 80% accuracy with Grad-CAM explainability. Distinction grade. | TensorFlow, CUDA, Python | 🔵 Completed |
-| **APU Campus Navigation System** | Real-time congestion prediction across campus floors. Presented to University COO. | Python, scikit-learn, SQL | 🔵 Completed |
-| **Food Recommendation System** | Hybrid TF-IDF + Collaborative Filtering model. Published in JATI Journal (2024). | Python, NLP, Pandas | 📄 Published |
+<!-- Currently Doing Section in Styled Box -->
+<div align="center">
+
+### ⚡ What I'm Currently Doing
+
+</div>
+
+<br/>
+
+<table width="100%" style="background-color: #0d1117; border-radius: 10px;">
+  <tr>
+    <td>
+
+🤖 **Building** → LangChain & RAG pipelines for production GenAI workflows
+
+📝 **Learning** → Advanced LLM orchestration, MLOps, OpenAI API tooling
+
+🔬 **Researching** → Agentic AI evaluation frameworks & behavioral grounding
+
+🌏 **Seeking** → Full-time AI/ML Engineering roles in Malaysia & SEA
+
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
-## 📄 Publications
+<br/>
+
+<!-- Tech Stack with Devicons -->
+<div align="center">
+
+### 🛠️ Tech Stack & Tools
+
+<br/>
+
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R" />
+
+<br/><br/>
+
+<!-- AI/ML Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50" alt="Keras" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="50" alt="Scikit-learn" />&nbsp;&nbsp;
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="HuggingFace" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+
+<br/><br/>
+
+<!-- Tools & Platforms -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="50" height="50" alt="CUDA" />
+
+<br/><br/>
+
+<!-- Currently Learning -->
+<img src="https://img.shields.io/badge/Currently_Learning-→-gray?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Featured Projects -->
+<div align="center">
+
+### 📂 Featured Projects
+
+</div>
+
+<br/>
+
+| 🚀 Project | Description | Tech Stack | Status |
+|:---:|:---|:---:|:---:|
+| 🔍 **Deepfake Detection Framework** | Spatial-temporal hybrid (EfficientNet+LSTM) with 80% accuracy & Grad-CAM | `TensorFlow` `CUDA` `Python` | <img src="https://img.shields.io/badge/🔵_COMPLETED-2E7D32?style=flat-square" /> |
+| 🗺️ **APU Campus Navigation** | Real-time congestion prediction across campus floors | `Python` `scikit-learn` `SQL` | <img src="https://img.shields.io/badge/🔵_COMPLETED-2E7D32?style=flat-square" /> |
+| 🍽️ **Food Recommendation System** | Hybrid TF-IDF + Collaborative Filtering. **Published in JATI Journal 2024** | `Python` `NLP` `Pandas` | <img src="https://img.shields.io/badge/📄_PUBLISHED-1976D2?style=flat-square" /> |
+
+<br/>
+
+---
+
+<br/>
+
+<!-- Publications -->
+<div align="center">
+
+### 📄 Publications
+
+</div>
+
+<br/>
+
+<div align="center">
 
 **"Food Recommendation System Using Hybrid Filtering"**  
-JATI Journal, Vol. 8, No. 2, 2024 (e-ISSN: 2600-7304)  
-Lead Researcher — Hybrid TF-IDF and Collaborative Filtering model solving the Cold Start problem in AI recommendation systems.
+*JATI Journal, Vol. 8, No. 2, 2024 (e-ISSN: 2600-7304)*  
+Lead Researcher — Hybrid TF-IDF and Collaborative Filtering solving the Cold Start problem
+
+<br/>
+
+<a href="https://doi.org/10.26858/jati.v8i2">
+  <img src="https://img.shields.io/badge/View_Publication-2E7D32?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahmhazeq&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmhazeq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<!-- GitHub Stats -->
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahmhazeq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" height="180" alt="Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmhazeq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" height="180" alt="Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmhazeq&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=FFA116&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak Stats" />
+
+</div>
+
+<br/>
 
 ---
 
-## 🤝 Let's Connect
+<br/>
 
-- 💼 [LinkedIn](https://linkedin.com/in/abdullahmhazeq)
-- 📧 [ahazeq.mena@gmail.com](mailto:ahazeq.mena@gmail.com)
-- 📍 Riyadh, Saudi Arabia | Open to relocation across Malaysia and SEA
+<!-- Connect Section with Big Buttons -->
+<div align="center">
 
-<p align="right"><a href="#top">Back to top ↑</a></p>
+### 🤝 Let's Connect & Collaborate
+
+<br/>
+
+I'm always open to discussing AI/ML research, LLM architectures, or potential collaborations across Southeast Asia. Don't be a stranger!
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/abdullahmhazeq">
+  <img src="https://img.shields.io/badge/LINKEDIN-ABDULLAH_M_HAZEQ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="https://github.com/abdullahmhazeq">
+  <img src="https://img.shields.io/badge/GITHUB-ABDULLAHMHAZEQ-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="mailto:ahazeq.mena@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-AHAZEQ.MENA@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+</a>
+
+<br/><br/>
+
+📍 Based in Riyadh, Saudi Arabia | Open to relocation across **Malaysia & SEA**
+
+</div>
+
+<br/>
+
+---
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/↑_Back_to_Top-3B82F6?style=flat-square" alt="Back to top" />
+  </a>
+</div>
