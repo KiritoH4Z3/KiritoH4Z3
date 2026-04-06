@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abdullah+Mohammed+Hazeq+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder+%7C+Published+Researcher;Fine-tuned+20%2B+AI+Agents+in+Production;Distinction-Grade+Deep+Learning+Framework;Open+to+Roles+across+Malaysia+%26+SEA+%F0%9F%8C%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abdullah+Mohammed+Hazeq+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder+%7C+Published+Researcher;Fine-tuned+20%2B+AI+Agents+in+Production;Distinction-Grade+Deep+Learning+Framework;Open+to+Roles+across+the+World+%F0%9F%8C%8D;PLEASE+HIRE+ME+%F0%9F%99%8F" alt="Typing SVG" />
 
 <br/>
 
