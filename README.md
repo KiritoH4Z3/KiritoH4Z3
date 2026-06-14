@@ -1,164 +1,79 @@
-<a name="top"></a>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Abdullah+Mohammed+Hazeq+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Builder+%7C+Published+Researcher;Fine-tuned+20%2B+AI+Agents+in+Production;Distinction-Grade+Deep+Learning+Framework;Open+to+Roles+across+the+World+%F0%9F%8C%8D;PLEASE+HIRE+ME+%F0%9F%99%8F" alt="Typing SVG" />
+# Abdullah Mohammed Hazeq
 
-<br/>
+### CS (AI) Graduate — Building AI systems that solve real problems
 
-<a href="https://github.com/KiritoH4Z3">
-  <img src="https://komarev.com/ghpvc/?username=KiritoH4Z3&style=for-the-badge&color=2E86AB&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/abdullahmhazeq"> 
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:ahazeq.mena@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-&nbsp;
-<a href="https://jati.apu.edu.my/index.php/JATI/article/view/77">
-  <img src="https://img.shields.io/badge/PUBLISHED-JATI%20Journal%202024-1D9E75?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Published" /></a>
+📍 Dubai, UAE
 
 </div>
 
 ---
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<h3>🧠 Who Am I?</h3>
+## About
 
-
-
-```python
-class Abdullah:
-    Location     = "Saudi Arabia | Relocation -> SEA 🌏"
-    Degree       = "B.S. Computer Science — Artificial Intelligence"
-    University   = "Asia Pacific University (APU), Malaysia"
-    Experience   = ["LLM Fine-tuning", "Agentic AI", "ML Pipelines"]
-    Frameworks   = ["TensorFlow", "PyTorch", "LangChain", "HuggingFace"]
-    Currently    = "Building RAG pipelines & LangChain agent workflows"
-    Published    = "JATI Journal, Vol. 8 No. 2, 2024 📄"
-    Distinction  = "Deepfake Detection Framework — Distinction Grade 🏆"
-    Goal         = "Land a meaningful AI role and build things that matter"
-    Hobbies      = "Racing, Gaming, Traveling, Photography"
-    Fun_fact     = "I am very competitive"
-```
-
-<br clear="right"/>
+Computer Science (AI) graduate from Asia Pacific University with hands-on experience deploying agentic AI workflows, building predictive ML models and automating data pipelines. Published peer-reviewed AI researcher and Distinction-grade capstone holder. Currently seeking roles in AI automation, data analysis and AI implementation in Dubai.
 
 ---
 
-### ⚡ What I'm Currently Doing
-
-```
-🤖  Building   →  RAG pipelines, AI Systems and LangChain agent workflows
-📄  Published  →  Peer-reviewed AI research in JATI Journal (2024)
-🌱  Learning   →  MLOps fundamentals, advanced prompt engineering, OpenAI tooling
-🌏  Seeking    →  Full-time AI/ML engineering roles across EMEA, Malaysia & SEA
-```
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
+## Skills
 
 **Languages**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r&theme=dark&perline=5" alt="Languages" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br/><br/>
+**AI / ML**
 
-**AI & ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2" alt="AI Frameworks" />
-</a>
+**LLM Tools**
 
-&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-<br/><br/>
+**Automation**
 
-**Tools & Infrastructure**
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white) ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode&theme=dark&perline=4" alt="Tools" />
-</a>
+**Data**
 
-&nbsp;
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-</div>
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Stack | Status |
-|---|---|---|:---:|
-| 🎭 **Deepfake Detection Framework** | Spatial-temporal hybrid model (EfficientNet + LSTM) achieving 80% accuracy with Grad-CAM explainability. Presented to university faculty. Earned a **Distinction grade**. | TensorFlow · CUDA · Python | ✅ Distinction |
-| 🗺️ **APU Campus Navigation System** | Real-time congestion prediction across campus floors with 70% accuracy. **Presented directly to the University COO** and Head of School. | Python · scikit-learn · SQL | ✅ Transferred |
-| 🍽️ **Food Recommendation System** | Hybrid TF-IDF + Collaborative Filtering model solving the Cold Start problem. **Peer-reviewed and published** in JATI Journal 2024. | Python · NLP · Pandas | 📄 Published |
-| 🤖 **LLM Agent Evaluation (Virtuals Protocol)** | Evaluated and fine-tuned 20+ production AI agents, designed prompt chains and behavioral grounding frameworks for a live agentic platform. | Python · HuggingFace · Prompt Eng | 🏢 Production |
+### Deepfake Detection Framework
+- 80% validated accuracy on hold-out test set
+- Hybrid EfficientNet + LSTM architecture (TensorFlow + CUDA)
+- Grad-CAM explainability integrated
+- Distinction grade | Asia Pacific University
 
----
+### APU Campus Congestion Prediction
+- ~70% prediction accuracy on real-world time-series data
+- Random Forest model with SQL-backed data pipelines
+- Presented ROI analysis to University COO
+- Shipped end-to-end in 1 month
 
-### 📄 Publication
-
-> **"Food Recommendation System Using Hybrid Filtering"**  
-> JATI Journal — Vol. 8, No. 2, 2024 (e-ISSN: 2600-7304)  
-> *Lead Researcher* — Hybrid TF-IDF and Collaborative Filtering model solving the Cold Start problem in dietary AI recommendation systems.
-
----
-
-### 🏅 Certifications
-
-| Certification | Issuer |
-|---|---|
-| 🌐 Cisco Certified Network Associate (CCNA) — Routing & Switching | Cisco Systems |
-| 💻 Introduction to Software Engineering Certificate | IBM / Coursera |
+### Signal — AI Market Intelligence Parser
+- Converts unstructured text into structured business intelligence
+- Built with Streamlit + Gemini API
+- Extracts entities, metrics, sentiment and executive summary
+- Link: [github.com/KiritoH4Z3/signal-ai-parser](https://github.com/KiritoH4Z3/signal-ai-parser)
 
 ---
 
-### 📊 GitHub Stats
+## Publication
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KiritoH4Z3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+Hazeq, A. M. et al. (2024). *Food Recommendation System Using Hybrid Filtering.* JATI Journal, e-ISSN: 2600-7304, Vol. 8, No. 2. Peer-reviewed. Sole first author.
 
 ---
 
-### 📬 Let's Connect
+## Contact
 
-<div align="center">
-
-I am actively seeking AI and ML engineering roles across Malaysia and SEA.  
-If you are hiring, collaborating or just want to talk AI... reach out!.
-
-<br/>
-
-<a href="https://linkedin.com/in/abdullahmhazeq">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Mohammed%20Hazeq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:ahazeq.mena@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ahazeq.mena-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/KiritoH4Z3">
-  <img src="https://img.shields.io/badge/GitHub-KiritoH4Z3-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20Touch%20Grass...&textBg=false&fontColor=00000&animation=scaleIn" alt="Footer" />
-
-<sub>⭐ If something here was useful, a star goes a long way. Always building, always shipping.</sub>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahmhazeq)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahazeq.mena@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiritoH4Z3)
