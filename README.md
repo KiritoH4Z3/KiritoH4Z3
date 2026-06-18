@@ -68,6 +68,7 @@ I'm a Computer Science (AI) graduate from Asia Pacific University who likes turn
 
 | Project | What it does | Impact |
 | --- | --- | --- |
+| **[Wajib](https://github.com/KiritoH4Z3/wajib)** | UAE compliance command center — a deterministic, source-cited rules engine that computes every government deadline (Corporate Tax, VAT, trade licence, WPS, visa/EID) | Tracks "AED fine exposure avoided" across 7 versioned rules with 23 passing unit tests — the kind of fine you'd genuinely rather avoid |
 | **[Deepfake Detection Framework](https://github.com/KiritoH4Z3/Deepfake-Detection-Framework)** | Hybrid EfficientNetV2B0 + LSTM with Grad-CAM explainability | ~80% validated accuracy — my Distinction-grade final-year project |
 | **[AP-Nav](https://github.com/KiritoH4Z3/AP-Nav)** | Congestion-aware indoor navigation for the APU campus (Random Forest) | ~70% accuracy, built in 1 month, presented to the University COO |
 | **[Retail Zone Analytics](https://github.com/KiritoH4Z3/Retail-Analytics)** | YOLOv8 + DeepSORT shopper tracking with a Streamlit manager dashboard | Turns store camera feeds into footfall and dwell-time insights |
