@@ -2,11 +2,11 @@
 
 # Abdullah Mohammed Hazeq
 
-### Founder, Zeqlar — I build software businesses for the UAE
+### Founder, Zeqlar. I find the bottleneck in your business and remove it with software.
 
 📍 United Arab Emirates
 
-*Teaching machines to do the boring parts so humans can get back to the interesting ones.*
+*They rejected the candidate. Now they can hire the company.*
 
 </div>
 
@@ -14,11 +14,16 @@
 
 ## About
 
-I'm the founder of **Zeqlar**, where I design, build, and ship SaaS products for the UAE market — compliance engines, quoting tools, and AI-powered business intelligence. One person, full stack: product, code, security, and design all get the same obsessive attention, because in a company of one there's nobody else to blame.
+I'm the founder of **Zeqlar**, and we do two things:
 
-Before founding: CS (AI) graduate from Asia Pacific University, published peer-reviewed AI researcher (sole first author), Distinction-grade capstone. The research habit stuck — everything I ship comes with tests, audits, and numbers to back it up.
+1. **Custom software for businesses.** We find the bottleneck in your operation and remove it with technology: a quoting engine, a compliance tracker, an automation nobody else wanted to build. If it's slowing you down, it's our problem now.
+2. **Products for everyone else.** SaaS you can subscribe to, tools built for the UAE market, and some that are open source and free forever, as long as you bring your own API key.
 
-I'm not looking for a job; I'm building. If your business runs on spreadsheets, WhatsApp messages, and hope — that's usually where my next product comes from. Let's talk.
+The corporate hiring pipeline is excellent at filtering out people who build things. I know, because it filtered me. So I stopped asking for a seat at the table and built my own. Every rejection email is now filed under market research.
+
+Before founding: CS (AI) graduate from Asia Pacific University, published peer-reviewed AI researcher (sole first author), Distinction-grade capstone. The research habit stuck. Everything I ship comes with tests, audits, and numbers to back it up.
+
+If your business runs on spreadsheets, WhatsApp messages, and hope, that's usually where my next product comes from. Let's talk.
 
 ---
 
@@ -26,22 +31,22 @@ I'm not looking for a job; I'm building. If your business runs on spreadsheets, 
 
 | Product | What it does | Status |
 | --- | --- | --- |
-| **[QuickQuote](https://quickquote-qq.vercel.app)** | Turns a messy customer request into a clean, branded, VAT-compliant PDF quotation in seconds | 🟢 Live — 72 automated tests |
-| **[Wajib](https://github.com/KiritoH4Z3/wajib)** | UAE compliance command center — Corporate Tax, VAT, trade licence, WPS, and visa deadlines with fine-exposure tracking | 🧪 Prototype |
-| **Beyaan** | Customs-declaration prep for UAE freight forwarders — document extraction to submission-ready declarations | 🧪 Private prototype — 99 tests |
-| **AMLKit** | AML compliance for small UAE DNFBPs — risk assessment, goAML workflows, inspection packs | 🧪 Private prototype — WCAG AA |
-| **[Signal](https://github.com/KiritoH4Z3/signal-ai-parser)** | Bring-your-own-key AI market-intelligence parser — unstructured text in, structured intelligence out | 🟢 Open source — 171 tests |
+| **[QuickQuote](https://quickquote-qq.vercel.app)** | Turns a messy customer request into a clean, branded, VAT-compliant PDF quotation in seconds | 🟢 Live, 72 automated tests |
+| **[Wajib](https://github.com/KiritoH4Z3/wajib)** | UAE compliance command center: Corporate Tax, VAT, trade licence, WPS, and visa deadlines with fine-exposure tracking | 🧪 Prototype |
+| **Beyaan** | Customs-declaration prep for UAE freight forwarders, from document extraction to submission-ready declarations | 🧪 Private prototype, 99 tests |
+| **AMLKit** | AML compliance for small UAE DNFBPs: risk assessment, goAML workflows, inspection packs | 🧪 Private prototype, WCAG AA |
+| **[Signal](https://github.com/KiritoH4Z3/signal-ai-parser)** | AI market-intelligence parser. Unstructured text in, structured intelligence out. Free and open source, just add your own API key | 🟢 Open source, 171 tests |
 
-**Client work:** websites and business tools for UAE organisations, including a live site for a Sharjah sports academy — built, deployed, and handed over with the client owning every account.
+**Custom builds:** websites and business tools for UAE organisations, including a live site for a Sharjah sports academy. Built, deployed, and handed over with the client owning every account.
 
 ---
 
 ## Results
 
 - **5 products** designed, built, and shipped solo in 2026
-- **360+ automated tests** across the product line — nothing ships untested
-- **Lighthouse 100** performance on the Zeqlar site; **WCAG AA** accessibility as the floor, not the ceiling
-- **1 peer-reviewed publication** — JATI Journal, sole first author
+- **360+ automated tests** across the product line. Nothing ships untested.
+- **Lighthouse 100** performance and **WCAG AA** accessibility as the baseline, not the stretch goal
+- **1 peer-reviewed publication**, JATI Journal, sole first author
 
 ---
 
@@ -69,7 +74,7 @@ I'm not looking for a job; I'm building. If your business runs on spreadsheets, 
 ## Research
 
 > **Hazeq, A. M. et al. (2024).** *Food Recommendation System Using Hybrid Filtering.*
-> JATI Journal, e-ISSN 2600-7304, Vol. 8, No. 2 — peer-reviewed, sole first author.
+> JATI Journal, e-ISSN 2600-7304, Vol. 8, No. 2. Peer-reviewed, sole first author.
 
 Earlier work: a [deepfake-detection framework](https://github.com/KiritoH4Z3/Deepfake-Detection-Framework) (hybrid EfficientNetV2B0 + LSTM, ~80% validated accuracy, Distinction-grade capstone) and [AP-Nav](https://github.com/KiritoH4Z3/AP-Nav), a congestion-aware campus navigation system presented to the university COO.
 
